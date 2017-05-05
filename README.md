@@ -2,7 +2,7 @@
 permalink: /
 ---
 
-# potherca-abandoned.github.io
+# potherca-blog.github.io
 
 <ul id="list"></ul>
 
